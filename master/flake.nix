@@ -11,7 +11,6 @@
   inputs.src-nimassets-master.ref   = "refs/heads/master";
   inputs.src-nimassets-master.owner = "xmonader";
   inputs.src-nimassets-master.repo  = "nimassets";
-  inputs.src-nimassets-master.dir   = "";
   inputs.src-nimassets-master.type  = "github";
   
   inputs."zstd".owner = "nim-nix-pkgs";
