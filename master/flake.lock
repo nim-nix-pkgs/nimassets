@@ -86,11 +86,11 @@
       },
       "locked": {
         "dir": "v0_5",
-        "lastModified": 1648163785,
-        "narHash": "sha256-8S2/WZKpOvne9qbJGh3Y/OgYKm2YfkCkdfcsGl+RjUg=",
+        "lastModified": 1650750696,
+        "narHash": "sha256-60MRPInQJiWOPGk2KJlRzyy7lvxhceYzfjM4k6xTdlc=",
         "owner": "nim-nix-pkgs",
         "repo": "zstd",
-        "rev": "867058f338f4b0b8195c28b33bae33ff8f4c044e",
+        "rev": "070dd04029a09e6df3703cf8728d963d3b1d717f",
         "type": "github"
       },
       "original": {
