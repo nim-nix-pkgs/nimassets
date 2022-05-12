@@ -7,8 +7,52 @@
   "license": "MIT",
   "web": "https://github.com/xmonader/nimassets",
   "refs": [
-    "fatal: unable to access 'https://github.com/xmonader/nimassets/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "nimassets",
+      "version": "0.2.3",
+      "author": "xmonader",
+      "desc": "bundle your assets to a nim",
+      "license": "MIT",
+      "skipDirs": [
+        "examples",
+        "tests"
+      ],
+      "skipFiles": [],
+      "skipExt": [
+        "nim"
+      ],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.4.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.4.0"
+          }
+        },
+        {
+          "name": "zstd",
+          "str": ">= 0.5.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "0.5.0"
+          }
+        }
+      ],
+      "bin": [
+        "nimassets"
+      ],
+      "binDir": "build",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
