@@ -254,11 +254,11 @@
       },
       "locked": {
         "dir": "v0_6",
-        "lastModified": 1669431484,
-        "narHash": "sha256-f2RjtFe2jofhy5qBIvTS0/iou34dtNMbk5pJM2b8G1s=",
+        "lastModified": 1669438401,
+        "narHash": "sha256-rdcyU7hsrzs2PEv3YRyCV0MDZf1w3CCkJqLu0VLI1Ss=",
         "owner": "nim-nix-pkgs",
         "repo": "zstd",
-        "rev": "f4084930f7584e733f55740df07c42d5146c2adb",
+        "rev": "b6e97347e2f217152ee2f55982db777fff377c3b",
         "type": "github"
       },
       "original": {
